@@ -71,7 +71,7 @@ export default function AddProduct() {
                 <div>
                     <div className="row">
                         <div className="col-sm-6 col-md-8 mb-3">
-                            <p className="fw-bold fs-2">Product</p>
+                            <p className="fw-bold fs-2">Add Topping</p>
                             <Form onSubmit={(e) => handleSubmit.mutate(e)}>
                                 <Form.Group className="mb-3" controlId="Name">
                                     <FloatingLabel label="Name">
