@@ -131,7 +131,7 @@ export default function AddProduct() {
                                         variant='danger'
                                         onClick={(e) => handleSubmit.mutate(e)}
                                     >
-                                        Add Product
+                                        Add Topping
                                     </Button>
                                 </div>
                             </Form>
